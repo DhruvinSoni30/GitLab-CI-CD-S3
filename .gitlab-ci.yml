@@ -1,0 +1,9 @@
+upload to s3:
+  image: 
+    name: banst/awscli
+    entrypoint: [""]
+  script:
+    - aws configure set region us-east-1
+    - touch dhruvin.txt
+    - aws s3 cp dhruvin.txt s3://$S3_BUCKET/dhruvin.txt
+
