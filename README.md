@@ -15,3 +15,6 @@ Learn more about GitLab CI/CD by visiting below page.
 https://docs.gitlab.com/ee/ci/README.html
 
 In this tutorial you can learn how to push a file to AWS S3.
+
+Output:
+
