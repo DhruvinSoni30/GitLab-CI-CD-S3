@@ -18,3 +18,5 @@ In this tutorial you can learn how to push a file to AWS S3.
 
 Output:
 
+![2.png](https://github.com/DhruvinSoni30/GitLab-CI-CD-S3/blob/main/2.png)
+
